@@ -39,5 +39,5 @@ function fizzBuzz() {
 
 triangulo(5);
 xadrez(4);
-palindromo("A man, a plan, a canal.Panama");
+console.log(palindromo("A man, a plan, a canal.Panama"));
 fizzBuzz();
