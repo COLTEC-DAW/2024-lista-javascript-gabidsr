@@ -20,7 +20,6 @@ function range(min, max, i) {
     
   	return array;
 }
-
 function reverseArray(array) {
     let array_inverso = array.split('').reverse().join('');
     return array_inverso;
